@@ -1,4 +1,4 @@
-[some1someagain.github.io/gallery]
+[some1someagain.github.io/gallery](some1someagain.github.io/gallery)
 
 This is a gallery page for all my public images.
 
