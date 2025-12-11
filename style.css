@@ -1,0 +1,42 @@
+body {
+  font-size: 1.5em;
+  background: #CBDCF8;
+}
+
+a {
+  color: #568DE5;
+  text-decoration: none;
+}
+
+a:hover { color: #84ADEA }
+
+.box {
+  height: 98vh;
+  display: flex;
+}
+
+.sidebar { width: 15% }
+
+.gallery-title {
+  margin: 5px 0;
+  font-size: inherit;
+}
+
+.main { width: 85% }
+
+.gallery-frame {
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
+.center-box {
+  height: 98vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.pixel-image { image-rendering: pixelated }
+
+.resize-image { zoom: 40% }
